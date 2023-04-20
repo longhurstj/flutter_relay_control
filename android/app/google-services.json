@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471628508478",
+    "project_id": "home-app-aa5ee",
+    "storage_bucket": "home-app-aa5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471628508478:android:faa50ae0cec720e26cd06f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_relay_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471628508478-130v72tiee5pmjveg3tj9lr5b62v45ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0v8R1uBQXUmZ62JJjU4kauXEBMAXbkkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471628508478-130v72tiee5pmjveg3tj9lr5b62v45ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
